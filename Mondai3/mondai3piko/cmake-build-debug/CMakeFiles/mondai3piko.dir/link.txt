@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mondai3piko.dir/main.cpp.o  -o mondai3piko 
